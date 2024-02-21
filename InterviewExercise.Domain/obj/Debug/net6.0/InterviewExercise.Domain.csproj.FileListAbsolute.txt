@@ -1,0 +1,12 @@
+C:\Users\powel\Source\Repos\exercise-net\InterviewExercise.Domain\bin\Debug\net6.0\InterviewExercise.Domain.deps.json
+C:\Users\powel\Source\Repos\exercise-net\InterviewExercise.Domain\bin\Debug\net6.0\InterviewExercise.Domain.dll
+C:\Users\powel\Source\Repos\exercise-net\InterviewExercise.Domain\bin\Debug\net6.0\InterviewExercise.Domain.pdb
+C:\Users\powel\Source\Repos\exercise-net\InterviewExercise.Domain\obj\Debug\net6.0\InterviewExercise.Domain.csproj.AssemblyReference.cache
+C:\Users\powel\Source\Repos\exercise-net\InterviewExercise.Domain\obj\Debug\net6.0\InterviewExercise.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\powel\Source\Repos\exercise-net\InterviewExercise.Domain\obj\Debug\net6.0\InterviewExercise.Domain.AssemblyInfoInputs.cache
+C:\Users\powel\Source\Repos\exercise-net\InterviewExercise.Domain\obj\Debug\net6.0\InterviewExercise.Domain.AssemblyInfo.cs
+C:\Users\powel\Source\Repos\exercise-net\InterviewExercise.Domain\obj\Debug\net6.0\InterviewExercise.Domain.csproj.CoreCompileInputs.cache
+C:\Users\powel\Source\Repos\exercise-net\InterviewExercise.Domain\obj\Debug\net6.0\InterviewExercise.Domain.dll
+C:\Users\powel\Source\Repos\exercise-net\InterviewExercise.Domain\obj\Debug\net6.0\refint\InterviewExercise.Domain.dll
+C:\Users\powel\Source\Repos\exercise-net\InterviewExercise.Domain\obj\Debug\net6.0\InterviewExercise.Domain.pdb
+C:\Users\powel\Source\Repos\exercise-net\InterviewExercise.Domain\obj\Debug\net6.0\ref\InterviewExercise.Domain.dll

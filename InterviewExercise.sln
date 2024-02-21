@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewExercise.Api", "InterviewExercise.Api\InterviewExercise.Api.csproj", "{8DED1F7C-6EC4-4A65-8A21-8B5E026CFE29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewExercise.Domain", "InterviewExercise.Domain\InterviewExercise.Domain.csproj", "{264EB5CE-E81C-4E4F-8546-636568647B87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DED1F7C-6EC4-4A65-8A21-8B5E026CFE29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DED1F7C-6EC4-4A65-8A21-8B5E026CFE29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DED1F7C-6EC4-4A65-8A21-8B5E026CFE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DED1F7C-6EC4-4A65-8A21-8B5E026CFE29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{264EB5CE-E81C-4E4F-8546-636568647B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264EB5CE-E81C-4E4F-8546-636568647B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264EB5CE-E81C-4E4F-8546-636568647B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264EB5CE-E81C-4E4F-8546-636568647B87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
